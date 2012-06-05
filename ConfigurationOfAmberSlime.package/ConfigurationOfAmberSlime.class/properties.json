@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfAmberSlime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfAmberSlime",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

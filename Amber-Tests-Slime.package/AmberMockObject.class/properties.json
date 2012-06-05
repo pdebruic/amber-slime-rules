@@ -1,0 +1,14 @@
+{
+	"category" : "Amber-Tests-Slime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AmberMockClassVar" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AmberMockObject",
+	"pools" : [
+		"ChronologyConstants" ],
+	"super" : "Object",
+	"type" : "normal" }

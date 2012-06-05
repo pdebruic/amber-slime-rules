@@ -1,0 +1,14 @@
+{
+	"category" : "Amber-Slime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AMSmalltalkGlobalRule",
+	"pools" : [
+		 ],
+	"super" : "AMSlimeBlockLintRule",
+	"type" : "normal" }

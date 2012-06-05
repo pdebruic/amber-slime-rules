@@ -1,0 +1,15 @@
+{
+	"category" : "Amber-Tests-Slime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 1/12/2012 09:41",
+	"instvars" : [
+		"model",
+		"environment" ],
+	"name" : "AMSlimeTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

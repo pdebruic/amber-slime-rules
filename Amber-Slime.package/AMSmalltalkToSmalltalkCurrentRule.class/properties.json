@@ -1,0 +1,14 @@
+{
+	"category" : "Amber-Slime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AMSmalltalkToSmalltalkCurrentRule",
+	"pools" : [
+		 ],
+	"super" : "AMSlimeTransformationRule",
+	"type" : "normal" }
